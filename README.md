@@ -19,7 +19,6 @@ parsec-vdd-cli.bat
 parsec-vdd-cli.exe -a
 ```
 
-
 ## 关于Easy-Virtual-Display
 本软件可替代Easy-Virtual-Display(evd)使用，evd为托盘程序且有弹框，不是很方便，所以这才有了这个命令行程序。
 
@@ -39,6 +38,7 @@ SOFTWARE\Parsec\vdd
 ## 成品
 请访问Release页面下载
 
+国内下载加速，请访问GitHub 文件加速https://ghproxy.markxu.online/
 ## 编译
 use gcc:`gcc -o parsec-vdd-cli.exe -static parsec-vdd.cc -lsetupapi -lstdc++`
 

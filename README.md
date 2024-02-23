@@ -36,7 +36,7 @@ SOFTWARE\Parsec\vdd
 ![自定义分辨率注册表参考图](regedit.png)
 
 ## 成品
-请访问Release页面下载
+请访问[Release](https://github.com/HaliComing/parsec-vdd-cli/releases)页面下载
 
 国内下载加速，请访问GitHub 文件加速https://ghproxy.markxu.online/
 ## 编译

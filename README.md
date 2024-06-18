@@ -45,7 +45,8 @@ use gcc:`gcc -o parsec-vdd-cli.exe -static parsec-vdd.cc -lsetupapi -lstdc++`
 use g++:`g++ -o parsec-vdd-cli.exe -static parsec-vdd.cc -lsetupapi`
 
 ## 使命
-等待[ParsecVDisplay App](https://github.com/nomi-san/parsec-vdd)的发布后，本程序预计也会随即停止更新。
+~~等待[ParsecVDisplay App](https://github.com/nomi-san/parsec-vdd)的发布后，本程序预计也会随即停止更新。~~
+ParsecVDisplay App已发布！快去围观。在没有特殊需求的情况下，本仓库将暂停进一步的更新。。
 
 ## 参考
 

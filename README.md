@@ -1,6 +1,13 @@
+### ~~使命[已结束]~~
+~~等待[ParsecVDisplay App](https://github.com/nomi-san/parsec-vdd)的发布后，本程序预计也会随即停止更新。~~
+
+令人兴奋！[ParsecVDisplay App](https://github.com/nomi-san/parsec-vdd)已发布！快去围观。在没有特殊需求的情况下，本仓库将暂停进一步的更新。
+
 # parsec-vdd-cli 命令行程序
 
-> 使用前请安装parsec-vdd驱动。
+> 使命结束不意味着 parsec-vdd-cli 程序无法使用。
+
+> 使用前请安装 parsec-vdd 驱动。
 
 - [parsec-vdd-v0.38](https://builds.parsec.app/vdd/parsec-vdd-0.38.0.0.exe)
 - [parsec-vdd-v0.41](https://builds.parsec.app/vdd/parsec-vdd-0.41.0.0.exe) (recommended)
@@ -43,10 +50,6 @@ SOFTWARE\Parsec\vdd
 use gcc:`gcc -o parsec-vdd-cli.exe -static parsec-vdd.cc -lsetupapi -lstdc++`
 
 use g++:`g++ -o parsec-vdd-cli.exe -static parsec-vdd.cc -lsetupapi`
-
-## 使命
-~~等待[ParsecVDisplay App](https://github.com/nomi-san/parsec-vdd)的发布后，本程序预计也会随即停止更新。~~
-ParsecVDisplay App已发布！快去围观。在没有特殊需求的情况下，本仓库将暂停进一步的更新。。
 
 ## 参考
 
